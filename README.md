@@ -1,8 +1,3 @@
----
-title: Modulo
-description: Advanced infrastructure for building secure, frictionless, programmable crypto wallets
----
-
 ## Overview
 
 Modulo (modulo.so) provides the open source, modular infrastructure for developers to build customizable smart-contract crypto wallet and payment apps that are secure, frictionless, and programmable, leveraging Modulo’s technical innovations in one-time-password authentication, air-gapped security, and keyless recovery. Modulo supports EVM compatible blockchains, and has operated in production under Layer 1 blockchains such as Harmony since Q4 2021. 
