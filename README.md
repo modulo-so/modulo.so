@@ -1,14 +1,14 @@
 ## Overview
 
-Modulo (modulo.so) provides the open source, modular infrastructure for developers to build customizable smart-contract crypto wallet and payment apps that are secure, frictionless, and programmable, leveraging Modulo’s technical innovations in one-time-password authentication, air-gapped security, and keyless recovery. Modulo supports EVM compatible blockchains, and has operated in production under Layer 1 blockchains such as Harmony since Q4 2021. 
+Modulo [modulo.so](modulo.so) provides the open source, modular infrastructure for developers to build customizable smart-contract crypto wallet and payment apps that are secure, frictionless, and programmable, leveraging Modulo’s technical innovations in one-time-password authentication, air-gapped security, and keyless recovery. Modulo supports EVM compatible blockchains, and has operated in production under Layer 1 blockchains such as Harmony since Q4 2021. 
 
-Modulo is founded by the developers who created 1wallet (github.com/polymorpher/one-wallet, 1wallet core and web edition). Modulo operates independently, and focuses on business-facing solutions and services, cross-chain infrastructure expansion, real-life use-case exploration, and the research and development of scaling and privacy technologies for the infrastructure, such as zero-knowledge proof.
+Modulo is founded by the developers who created [1wallet core and web edition](github.com/polymorpher/one-wallet). Modulo operates independently, and focuses on business-facing solutions and services, cross-chain infrastructure expansion, real-life use-case exploration, and the research and development of scaling and privacy technologies for the infrastructure, such as zero-knowledge proof.
 
 ## Highlights
 
 ### One-Time-Password Authentication
 
-Modulo eliminates the use of seed phrases and private keys by creating a new set of on-chain authentication mechanisms based on one-time password (OTP), a method that most users are already accustomed to in web2. The 6-digit OTP can be provided automatically by macOS and iOS (through FaceID / Fingerprints), or manually by apps such as Google Authenticator. The code controls the access to a wallet built on Modulo. A new code is generated every 30 seconds, and is required for every transaction. The security design also ensured the wallets are secure against replays, side channel, and front running attacks. 
+Modulo eliminates the use of seed phrases and private keys by creating a new set of on-chain authentication mechanisms based on one-time password (OTP), a method that most users are already accustomed to in web2. The 6-digit OTP can be provided automatically by macOS and iOS (through FaceID / Fingerprints), or manually by apps such as Google Authenticator. The code controls the access to a wallet built on Modulo. A new code is generated every 30 seconds, and is required for every transaction. The security design also ensures the wallets are secure against replay, side-channel, and front-running attacks. 
 
 Because of this, the setup process of a wallet becomes frictionless, and transactions can be made much faster because the user no longer needs to type a password for authorization.  
 
