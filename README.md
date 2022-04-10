@@ -1,8 +1,8 @@
 ## Overview
 
-Modulo [modulo.so](modulo.so) provides the open source, modular infrastructure for developers to build customizable smart-contract crypto wallet and payment apps that are secure, frictionless, and programmable, leveraging Modulo’s technical innovations in one-time-password authentication, air-gapped security, and keyless recovery. Modulo supports EVM compatible blockchains, and has operated in production under Layer 1 blockchains such as Harmony since Q4 2021. 
+Modulo ([modulo.so](https://modulo.so)) provides the open source, modular infrastructure for developers to build customizable smart-contract crypto wallet and payment apps that are secure, frictionless, and programmable, leveraging Modulo’s technical innovations in one-time-password authentication, air-gapped security, and keyless recovery. Modulo supports EVM compatible blockchains, and has operated in production under Layer 1 blockchains such as Harmony since Q4 2021. 
 
-Modulo is founded by the developers who created [1wallet core and web edition](github.com/polymorpher/one-wallet). Modulo operates independently, and focuses on business-facing solutions and services, cross-chain infrastructure expansion, real-life use-case exploration, and the research and development of scaling and privacy technologies for the infrastructure, such as zero-knowledge proof.
+Modulo is founded by the developers who created 1wallet core and web edition ([github.com/polymorpher/one-wallet](https://github.com/polymorpher/one-wallet)). Modulo operates independently, and focuses on business-facing solutions and services, cross-chain infrastructure expansion, real-life use-case exploration, and the research and development of scaling and privacy technologies for the infrastructure, such as zero-knowledge proof.
 
 ## Highlights
 
