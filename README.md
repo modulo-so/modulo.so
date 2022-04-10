@@ -43,9 +43,13 @@ If the user lost the authenticator (hence the access to the wallet), the user ma
 - Open Source and Continuous Audits
 
 ### Resources
+
 Source Code: [GitHub](https://github.com/polymorpher/one-wallet) (1wallet core and web edition)
+
 Presentations: [Slides](https://docs.google.com/presentation/d/1lmpWZyT8Mk6yey6FJWEdpeMo6vWdY7Vy2NUMArQHTGw), [Notes](https://docs.google.com/document/d/1MyJGH87ujlBVzwLMBNzJmdw4JH-UzhRUQTNw3t6AaWM/edit#)
+
 Documentations: [Wiki](https://github.com/polymorpher/one-wallet/wiki), [dApp Integration Guide](https://github.com/polymorpher/one-wallet/wiki/App-Integration)
+
 Bugs and Discussions:  [GitHub Issues](https://github.com/polymorpher/one-wallet/issues)
 
 ### Pricing
