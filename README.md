@@ -16,7 +16,7 @@ Modulo eliminates the use of seed phrases and private keys by creating a new set
 
 Because of this, the setup process of a wallet becomes frictionless, and transactions can be made much faster because the user no longer needs to type a password for authorization.  
 
-### Air-gapped Security
+## Air-gapped Security
 
 Most wallets require the private key to be loaded in-memory for every transaction. This creates enormous risks because the private key may be intercepted by hackers, and may control all assets in the wallet. 
 
@@ -24,7 +24,7 @@ Modulo removes this risk using air-gapped security. A setup secret is only neede
 
 This feature, along with several other layers of security, make wallets built on Modulo resilient to attacks in unsafe environments.
 
-### Keyless Recovery
+## Keyless Recovery
 
 Modulo provides many ways for a user to recover assets which they no longer have access to. The wallet can be synchronized across multiple devices, and optionally and securely backed up in a cloud. If the user lost all devices that have the wallet, or somehow erased the wallets on these devices, the user may restore the wallet using only the authenticator codes. 
 
@@ -42,7 +42,7 @@ If the user lost the authenticator (hence the access to the wallet), the user ma
 - Full dApp Integration APIs (Connect, Call, Transfer, Sign)
 - Open Source and Continuous Audits
 
-### Resources
+## Resources
 
 Source Code: [GitHub](https://github.com/polymorpher/one-wallet) (1wallet core and web edition)
 
@@ -52,11 +52,11 @@ Documentations: [Wiki](https://github.com/polymorpher/one-wallet/wiki), [dApp In
 
 Bugs and Discussions:  [GitHub Issues](https://github.com/polymorpher/one-wallet/issues)
 
-### Pricing
+## Pricing
 
 Please contact us for a custom quote.
 
-### Contact
+## Contact
 
 [hello@modulo.so](mailto:hello@modulo.so)
 
