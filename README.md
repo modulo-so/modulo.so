@@ -1,5 +1,5 @@
 ---
-title: Modulo
+title: "Modulo"
 description: "Advanced infrastructure for building secure, frictionless, programmable crypto wallets"
 ---
 
