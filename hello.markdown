@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: calendar
 title: "modulo.so | hello"
 description: "secure, frictionless, programmable non-custodial wallet infrastructure"
 ---

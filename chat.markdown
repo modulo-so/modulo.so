@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: calendar
 title: "modulo.so | chat"
 description: "secure, frictionless, programmable non-custodial wallet infrastructure"
 ---
