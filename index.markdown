@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Modulo"
-description: "Advanced infrastructure for building secure, frictionless, programmable crypto wallets"
+title: "modulo"
+description: "secure, frictionless, programmable non-custodial wallet infrastructure"
 ---
 
 ## Overview
