@@ -3,6 +3,9 @@ layout: text
 title: "modulo - about"
 ---
 
+## SMS Wallet
+
+More information coming soon. See [solutions](/products) and [resources](/resources) for more details.
 
 ## OTP Wallet
 
@@ -38,6 +41,3 @@ If the user lost the authenticator (hence the access to the wallet), the user ma
 - Full dApp Integration APIs (Connect, Call, Transfer, Sign)
 - Open Source and Continuous Audit
 
-## SMS Wallet
-
-More information coming soon. See [solutions](/products) and [resources](/resources) for more details.
