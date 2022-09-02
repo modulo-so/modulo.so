@@ -5,10 +5,10 @@ description: "secure, frictionless, programmable non-custodial wallet infrastruc
 ---
 
 <div class="text-center text-large">
-    redirecting to <br/>modulo.so - products
+    loading <br/>modulo.so - products...
 </div>
 <script>
     setTimeout(function(){
         location.href='/assets/products.pdf';
-    }, 2500);
+    }, 500);
 </script>

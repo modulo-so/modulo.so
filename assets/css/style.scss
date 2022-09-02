@@ -33,3 +33,108 @@
 .text-white{
   color: white;
 }
+
+.header-menu{
+  width: 100%;
+  z-index: 1;
+  padding: 16px 32px;
+  position: fixed;
+  height: 64px;
+  background: black;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  .menu-divider, a {
+    font-size: 21px;
+    color: #fff;
+    opacity: 0.8;
+  }
+  a{
+    display: flex;
+    align-items: center;
+    img{
+      width: 80px;
+      object-fit: contain;
+    }
+  }
+}
+
+.fixed{
+  position: fixed;
+}
+
+.footer-menu{
+  width: 100%;
+  height: 64px;
+  bottom: 16px;
+  //background: black;
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  justify-content: center;
+  a{
+    img{
+      width: 24px;
+      object-fit: contain;
+    }
+  }
+}
+
+.main-header-logo{
+  img{
+    width: 315px;
+    height: 75px;
+    object-fit: contain;
+  }
+}
+
+.landing-container{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  img{
+    width: 315px;
+    height: 75px;
+    object-fit: contain;
+  }
+}
+
+
+.floating-tagline{
+
+}
+.floating-menu{
+  justify-content: center;
+  margin-top: 16px;
+  color: #606c71;
+  display: flex;
+  gap: 16px;
+  a{
+    color: #606c71;
+    &:hover{
+      text-decoration: none;
+    }
+    &:visited{
+      text-decoration: none;
+    }
+  }
+}
+.page-header>.floating-menu{
+  color: #eeeeee;
+  a {
+    color: #eeeeee;
+  }
+}
+
+.col{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}

@@ -15,14 +15,15 @@
     {% include head-custom.html %}
 </head>
 <body>
-<div class="landing-container">
-    <img src="{{ '/assets/logo.png'}}"></h1>
-    <p class="floating-tagline">{{ page.description }}</p>
+<header class="page-header col" role="banner">
+    <div class="main-header-logo"><a href="/"><img src="{{ '/assets/logo.png'}}"></a></div>
+    <p class="floating-tagline">{{ site.description }}</p>
     {% include floating-menu.html %}
+</header>
 
-</div>
-
-{% include footer-menu.html fixed=true %}
-
+<main id="content" class="main-content" role="main">
+    {{ content }}
+</main>
+{% include footer-menu.html %}
 </body>
 </html>
